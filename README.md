@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Cooper Waite's Resume
 
-You can use the [editor on GitHub](https://github.com/cewaite/My-Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![IMG_20200824_124807](https://user-images.githubusercontent.com/70171720/93953529-78fe9900-fd00-11ea-9979-9b4a0c017bbc.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cantact Info:
+cewaite814@gmail.com
 
 ```markdown
 Syntax highlighted code block
