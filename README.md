@@ -48,3 +48,18 @@ Currently enrolled in classes and majoring in Computer Science
 **San Dieguito High School Academy** - Encinitas, CA
 
 Graduated in May 2019
+
+# Computer Science Experience
+
+- Independently, I've dedicated time to learning C# in order to use it inside of a gaming development platform called Unity, which I've also been dedicating my free time to learning
+- A text based adventure which, as a final project for each of my Computer Science classes over the last four years, I've grown and reinvented using the new and improved skills I've learned in each class
+
+## Skills & Knowledge
+
+- Java
+- American Sign Language
+- Willingness to Learn
+- Active Listener
+- Effective Communicator
+- Teamwork
+
