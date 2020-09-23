@@ -1,35 +1,50 @@
 ## Cooper Waite's Resume
 
-![IMG_20200824_124807](https://user-images.githubusercontent.com/70171720/93953529-78fe9900-fd00-11ea-9979-9b4a0c017bbc.jpg)
+![IMG_20200824_124807](https://user-images.githubusercontent.com/70171720/93953849-40ab8a80-fd01-11ea-984a-bdbfac7b423e.jpg)
 
 
 ### Cantact Info:
 cewaite814@gmail.com
 
-```markdown
-Syntax highlighted code block
+# Professional Summary
 
-# Header 1
-## Header 2
-### Header 3
+Dedicated student, ready to become a part of a hardworking establishment that values problem
+solving through team communication, commitment, and quality. Excited to be challenged and to
+learn from my mistakes. I'm pursuing an opportunity to grow my skills and experience.
 
-- Bulleted
-- List
+# Work History
 
-1. Numbered
-2. List
+**Best Buy Home Theater Sales Floor Associate**, 10/2019 to 8/2020
+Best Buy - Encinitas, CA
 
-**Bold** and _Italic_ and `Code` text
+Apply knowledge of Home Theater, Home Appliances, and Computer products to help
+customers satisfy their technological needs while providing a comfortable experience.
 
-[Link](url) and ![Image](src)
-```
+**Chipotle Crew Member**, 10/2018 to 9/2019
+Chipotle Mexican Grill - Encinitas, CA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Communicate with customers to satisfy needs or concerns as well as prepare certain food items
+to be served that day. Dish washing and cleaning/organization of the back of the restaurant.
 
-### Jekyll Themes
+**Peer Tutor**, 01/2018 to 06/2018
+San Dieguito Academy - Encinitas, CA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cewaite/My-Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Support sophomore high school students with assignments, which included essay review,
+assistance with time management and organisational tips. I also assisted the teacher with tasks
+around the classroom, such as grading papers, organizing or helping the class in an activity.
 
-### Support or Contact
+**Tech Crew**, 07/2015 to 08/2016
+Coastline Community Church - Carlsbad, CA
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Volunteered ≈ 9 hours each Sunday. Responsibilities include camera management and operation,
+as well as slideshow manager.
+
+# Education
+
+**Mira Costa College** - San Elijo CA
+
+Currently enrolled in classes and majoring in Computer Science
+
+**San Dieguito High School Academy** - Encinitas, CA
+
+Graduated in May 2019
