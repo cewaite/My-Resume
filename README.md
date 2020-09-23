@@ -63,3 +63,14 @@ Graduated in May 2019
 - Effective Communicator
 - Teamwork
 
+## HW#4 Questions
+1. My Resume: https://cewaite.github.io/My-Resume/
+2. Job Listing: https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/Gameplay-Programmer-Internship---Rocket-League_R3018-2?mode=job&iis=Indeed&iisn=Indeed.com
+3. In a career, I value diversity and opportunities to learn and grow. Especially when it comes to Computer Science, every programming challenge is almost like a puzzle that simply takes time and dedication to solve. If that was the same puzzle over and over again, I would not be enjoying myself anymore. Although I like learning in my career, I never want to be doing it alone. Thus, the most important part of a career, in my eyes, is learning, getting better at what I do, and becoming a closer, more efficient team with my coworkers.
+4. I really do want to go into video game design and programming. I’m not simply saying that because I like video games. With what little experience I have, the only time where I truly enjoyed my work was when I was designing some sort of video game. Not only is the process simply more entertaining to me but I love the idea of creating something I know I would enjoy playing too (or at least be passionate about creating). It's truly a perfect merge of my interests and skills.
+5. The closest job title to my ideal career would be Video Game Programmer, I suppose.
+6. This job title aligns with my career values perfectly. Not only would I be passionate about what I was creating but it leaves an infinite amount of room for me to expand my skills and relations.
+7. This job title aligns with my personal interests in a very obvious way. I love video games, what can I say. Oftentimes I find myself wondering “How did they program this part of the game?”, “What went into designing the inventory system and why did they choose that method?” or thoughts similar whenever I play some of my favorite games.
+8. The job posting I chose is a perfect reflection of what I’m looking for in a career. It's an internship but my responsibilities would include doing exactly what I’m curious about learning and taking on that job would be a perfect opportunity to learn it.
+9. The job requires “Strong mathematical skills” and experience in scripting languages. Thus, I think the Computer Science degree path that I’m on now would be a perfect path to stay on. Perhaps I could dedicate more of my own time to learn more C++ but this educational path allows me the programming and math experience I would need to land the internship.
+
